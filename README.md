@@ -6,3 +6,5 @@ ecoHolder es un soporte de móvil regulable que se puede colocar en el manillar 
 
 ![ecoHolder screen caps](https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoHolderApp.JPG)
 
+## stack tecnológico
+![stack tecnológico](https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoholderstack.png)
