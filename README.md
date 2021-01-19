@@ -1,4 +1,3 @@
-# ecoHolder
 
 ![ecoHolder logo](https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoHolder.JPG)
 
