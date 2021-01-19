@@ -1,5 +1,5 @@
 
-<center><img src="https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoHolder.JPG" alt="ecoHolder logo"/></center>
+<p text-align="center"><img src="https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoHolder.JPG" alt="ecoHolder logo"/></p>
 
 
 ### stack tecnológico
@@ -12,4 +12,4 @@ ecoHolder es un soporte de móvil regulable que se puede colocar en el manillar 
 
 ## stack tecnológico
 
-<center><img src="https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoholderstack.png" alt="stack tecnológico"/></center>
+<p text-align="center"><img src="https://github.com/DianaIT/ecoHolder/blob/master/src/assets/img/README/ecoholderstack.png" alt="stack tecnológico"/></p>
